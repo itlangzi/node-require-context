@@ -1,0 +1,19 @@
+{
+  "name": "node-require-context",
+  "version": "1.0.0",
+  "description": "same as webpack require.context，and can be used everywhere.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itlangzi/node-require-context.git"
+  },
+  "keywords": [
+    "require.context"
+  ],
+  "author": "Lang zi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itlangzi/node-require-context/issues"
+  },
+  "homepage": "https://github.com/itlangzi/node-require-context#readme"
+}
